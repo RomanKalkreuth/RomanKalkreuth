@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Roman Kalkreuth
-- 👀 I’m interested in Genetic Programming
-- 💞️ I’m looking to collaborate on applications, analysis and extension of Genetic Programming 
+- 👋 Hi, I’m Roman
+- 👀 I’m primarily interested in (graph-based) genetic programming (GP)
+- 💞️ I’m looking to collaborate on applications, analysis and extensions for GP
 - 📫 You can reach me at twitter.com/RomanKalkreuth
 
